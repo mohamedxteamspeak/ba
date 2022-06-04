@@ -2,7 +2,8 @@ import translate from 'translate-google-api'
 const defaultLang = 'es'
 const tld = 'cn'
 let handler = async (m, { args, usedPrefix, command }) => {
-let msg = `*[❗𝐈𝐍𝐅𝐎❗] ◥ ツالاستخدام الصحيح للأمرツ ◤ ${usedPrefix + command} (のلغةの) (のنصの)*\n*★彡مثال彡★™:*\n*${usedPrefix + command} ar Hello*\n\n*◥ ツتعرف على اللغات المدعومة فيツ ◤:*\n*- https://cloud.google.com/translate/docs/languages*`
+let msg = `*[❗𝐈𝐍𝐅𝐎❗] ◥ ツالاستخدام الصحيح للأمرツ ◤ ${usedPrefix + command} lang Text*\n*★彡مثال彡★™:*\n*${usedPrefix + command} ar Hello*\n\n*◥ ツتعرف على اللغات المدعومة فيツ ◤:*\n*- https://cloud.google.com/translate/docs/languages*`
+let msg = `*[❗𝐈𝐍𝐅𝐎❗] ★彡او عن طريق الرد على النص الذي تريد من تحويله彡★™ *\n*★彡مثال彡★™:*\n*${usedPrefix + command} ar*\n
 if (!args || !args[0]) return m.reply(msg)
 let lang = args[0]
 let text = args.slice(1).join(' ')
