@@ -69,6 +69,9 @@ let str = `
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
 *📊 ◥ ツالمستخدمونツ ◤: ${rtotalreg}*
 
+╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
 *<★彡معلومات عن البوت彡★™/>*
 
 ° ඬ ⃟ 💟 _${usedPrefix}grupos_
@@ -78,59 +81,25 @@ let str = `
 ° ඬ ⃟ 💟 _${usedPrefix}grouplist_
 ° ඬ ⃟ 💟 _${usedPrefix}owner_
 ° ඬ ⃟ 💟 _${usedPrefix}script_
-° ඬ ⃟ 💟 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+° ඬ ⃟ 💟 _Bot_ (Text)
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<★彡يستخدم فقط في المجموعة彡★™/>*
 
 ° ඬ⃟👽 _${usedPrefix}join *<link / url>*_
 
-*<ألـ,ـعہاب/>*
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
-° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
-° ඬ⃟🎖️ _${usedPrefix}ppt *<paper / tijera /stone>*_
-° ඬ⃟🎖️ _${usedPrefix}prostituto *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}prostituta *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}gay2 *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}lesbiana *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pajero *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pajera *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}puto *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}puta *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}manco *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}manca *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}rata *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}love *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}doxear *<Name / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pregunta *<text>*_
-° ඬ⃟🎖️ _${usedPrefix}slot *<apuesta>*_
-° ඬ⃟🎖️ _${usedPrefix}pvp *<@tag>*_
-° ඬ⃟🎖️ _${usedPrefix}simi *<text>*_
-° ඬ⃟🎖️ _${usedPrefix}topgays_
-° ඬ⃟🎖️ _${usedPrefix}topotakus_
-° ඬ⃟🎖️ _${usedPrefix}formarpareja_
-° ඬ⃟🎖️ _${usedPrefix}verdad_
-° ඬ⃟🎖️ _${usedPrefix}reto_
+*<◥ ツمحركات البحثツ ◤/>*
 
-*<༊෴✿تشغيل أو إيقاف✿〄࿐/>*
+° ඬ⃟🔍 _${usedPrefix}animeinfo *<text>*_
+° ඬ⃟🔍 _${usedPrefix}google *<text>*_
+° ඬ⃟🔍 _${usedPrefix}letra *<text>*_
+° ඬ⃟🔍 _${usedPrefix}wikipedia *<text>*_
+° ඬ⃟🔍 _${usedPrefix}ytsearch *<text>*_
 
-° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}enable *detect*_
-° ඬ⃟☑️ _${usedPrefix}disable *detect*_
-° ඬ⃟☑️ _${usedPrefix}enable *audios*_
-° ඬ⃟☑️ _${usedPrefix}disable *audios*_
-° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
-° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
-
-*<★彡تقارير الأخطاء彡★™/>*
-
-° ඬ⃟🔰 _${usedPrefix}reporte *<text>*_
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<༊෴✿التحميلات✿〄࿐/>*
 
@@ -158,23 +127,7 @@ let str = `
 ° ඬ⃟📥 _${usedPrefix}igstory *<Name of the user>*_
 ° ඬ⃟📥 _${usedPrefix}tiktokstalk *<Name of the user>*_
 
-*<◥ ツمجموعاتツ ◤/>* 
-
-° ඬ⃟💎 _${usedPrefix}add *<numero>*_
-° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
-° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _admins *<text>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}infogroup_
-° ඬ⃟💎 _${usedPrefix}link_
-° ඬ⃟💎 _${usedPrefix}setname *<text>*_
-° ඬ⃟💎 _${usedPrefix}setdesc *<text>*_
-° ඬ⃟💎 _${usedPrefix}invocar *<text>*_
-° ඬ⃟💎 _${usedPrefix}setwelcome *<text>*_
-° ඬ⃟💎 _${usedPrefix}setbye *<text>*_
-° ඬ⃟💎 _${usedPrefix}hidetag *<text>*_
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<★彡التحولات彡★™/>*
 
@@ -184,6 +137,61 @@ let str = `
 ° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un audio>*_
 ° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
 ° ඬ⃟🧧 _${usedPrefix}tts es *<text>*_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+*<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊★彡ستيكرز彡★™/>*
+
+° ඬ⃟👽 _${usedPrefix}sticker *<responder a imagen o video>*_
+° ඬ⃟👽 _${usedPrefix}sticker *<link / url>*_
+° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
+° ඬ⃟👽 _${usedPrefix}s *<link / url>*_
+° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
+° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
+° ඬ⃟👽 _${usedPrefix}attp *<text>*_
+° ඬ⃟👽 _${usedPrefix}ttp *<text>*_
+° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
+° ඬ⃟👽 _${usedPrefix}slap *<@tag>_
+° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
+° ඬ⃟👽 _${usedPrefix}dado_
+° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
+° ඬ⃟👽 _${usedPrefix}stickermarker *<EFFECTS> <responder a imagen>*_
+° ඬ⃟👽 _${usedPrefix}stickerfilter *<EFFECTS> <responder a imagen>*_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+*<◥ ツأدواتツ ◤>*
+
+° ඬ⃟🛠️ _${usedPrefix}afk *<reason>*_
+° ඬ⃟🛠️ _${usedPrefix}ssf *<link / url>*_
+° ඬ⃟🛠️ _${usedPrefix}acortar *<link / url>*_
+° ඬ⃟🛠️ _${usedPrefix}calc *<operacion math>*_
+° ඬ⃟🛠️ _${usedPrefix}del *<Reply to Bot message>*_
+° ඬ⃟🛠️ _${usedPrefix}qrcode *<text>*_
+° ඬ⃟🛠️ _${usedPrefix}readmore *<text1| text2>*_
+° ඬ⃟🛠️ _${usedPrefix}spamwa *<numero|text|cantidad>*_
+° ඬ⃟🛠️ _${usedPrefix}styletext *<text>*_
+° ඬ⃟🛠️ _${usedPrefix}traducir *<text>*_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+*<★彡تأثيرات الصوت彡★™/>*
+*- ◥ ツقم برد على مقطع صوتي مع كتابة احد الاوامرツ ◤*
+
+° ඬ⃟🎤 _${usedPrefix}bass_
+° ඬ⃟🎤 _${usedPrefix}blown_
+° ඬ⃟🎤 _${usedPrefix}deep_
+° ඬ⃟🎤 _${usedPrefix}earrape_
+° ඬ⃟🎤 _${usedPrefix}fast_
+° ඬ⃟🎤 _${usedPrefix}fat_
+° ඬ⃟🎤 _${usedPrefix}nightcore_
+° ඬ⃟🎤 _${usedPrefix}reverse_
+° ඬ⃟🎤 _${usedPrefix}robot_
+° ඬ⃟🎤 _${usedPrefix}slow_
+° ඬ⃟🎤 _${usedPrefix}smooth_
+° ඬ⃟🎤 _${usedPrefix}tupai_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<★彡التأثيرات والشعارات彡★™/>*
 
@@ -195,6 +203,53 @@ let str = `
 ° ඬ⃟🖍️ _${usedPrefix}itssostupid_
 ° ඬ⃟🖍️ _${usedPrefix}pixelar_
 ° ඬ⃟🖍️ _${usedPrefix}blur_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+*<༊෴✿تشغيل أو إيقاف✿〄࿐/>*
+
+° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
+° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
+° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
+° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
+° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
+° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
+° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
+° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
+° ඬ⃟☑️ _${usedPrefix}enable *detect*_
+° ඬ⃟☑️ _${usedPrefix}disable *detect*_
+° ඬ⃟☑️ _${usedPrefix}enable *audios*_
+° ඬ⃟☑️ _${usedPrefix}disable *audios*_
+° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
+° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+*<★彡تقارير الأخطاء彡★™/>*
+
+° ඬ⃟🔰 _${usedPrefix}reporte *<text>*_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+*<◥ ツمجموعاتツ ◤/>* 
+
+° ඬ⃟💎 _${usedPrefix}add *<numero>*_
+° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
+° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}admins *<text>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}infogroup_
+° ඬ⃟💎 _${usedPrefix}link_
+° ඬ⃟💎 _${usedPrefix}setname *<text>*_
+° ඬ⃟💎 _${usedPrefix}setdesc *<text>*_
+° ඬ⃟💎 _${usedPrefix}invocar *<text>*_
+° ඬ⃟💎 _${usedPrefix}setwelcome *<text>*_
+° ඬ⃟💎 _${usedPrefix}setbye *<text>*_
+° ඬ⃟💎 _${usedPrefix}hidetag *<text>*_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<◥ ツعشوائيツ ◤/>*
 
@@ -246,21 +301,7 @@ let str = `
 ° ඬ⃟👾 _${usedPrefix}sakura_
 ° ඬ⃟👾 _${usedPrefix}cosplay_
 
-*<★彡تأثيرات الصوت彡★™/>*
-*- ◥ ツقم برد على مقطع صوتي مع كتابة احد الاوامرツ ◤*
-
-° ඬ⃟🎤 _${usedPrefix}bass_
-° ඬ⃟🎤 _${usedPrefix}blown_
-° ඬ⃟🎤 _${usedPrefix}deep_
-° ඬ⃟🎤 _${usedPrefix}earrape_
-° ඬ⃟🎤 _${usedPrefix}fast_
-° ඬ⃟🎤 _${usedPrefix}fat_
-° ඬ⃟🎤 _${usedPrefix}nightcore_
-° ඬ⃟🎤 _${usedPrefix}reverse_
-° ඬ⃟🎤 _${usedPrefix}robot_
-° ඬ⃟🎤 _${usedPrefix}slow_
-° ඬ⃟🎤 _${usedPrefix}smooth_
-° ඬ⃟🎤 _${usedPrefix}tupai_
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<◥ ツدردشة مجهولةツ ◤/>*
 
@@ -268,102 +309,7 @@ let str = `
 ° ඬ⃟📳 _${usedPrefix}next_
 ° ඬ⃟📳 _${usedPrefix}leave_
 
-*<◥ ツمحركات البحثツ ◤/>*
-
-° ඬ⃟🔍 _${usedPrefix}animeinfo *<text>*_
-° ඬ⃟🔍 _${usedPrefix}google *<text>*_
-° ඬ⃟🔍 _${usedPrefix}letra *<text>*_
-° ඬ⃟🔍 _${usedPrefix}wikipedia *<text>*_
-° ඬ⃟🔍 _${usedPrefix}ytsearch *<text>*_
-
-*<★彡الاصوات彡★™/>* 
-*- ◥ ツاكتب الكلمات أو العبارات التالية دون أي تمهيدツ ◤ (#, /, *, .)* 
-_(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
-
-° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
-° ඬ⃟🔊 _Te diagnostico con gay_
-° ඬ⃟🔊 _A nadie le importa_
-° ඬ⃟🔊 _Fiesta del admin_
-° ඬ⃟🔊 _Fiesta del administrador_ 
-° ඬ⃟🔊 _Vivan los novios_
-° ඬ⃟🔊 _Feliz cumpleaños_
-° ඬ⃟🔊 _Noche de paz_
-° ඬ⃟🔊 _Buenos dias_
-° ඬ⃟🔊 _Buenos tardes_
-° ඬ⃟🔊 _Buenos noches_
-° ඬ⃟🔊 _Audio hentai_
-° ඬ⃟🔊 _Chica lgante_
-° ඬ⃟🔊 _Feliz navidad_
-° ඬ⃟🔊 _Vete a la vrg_
-° ඬ⃟🔊 _Pasa pack Bot_
-° ඬ⃟🔊 _Atencion grupo_
-° ඬ⃟🔊 _Marica quien_
-° ඬ⃟🔊 _Murio el grupo_
-° ඬ⃟🔊 _Oh me vengo_
-° ඬ⃟🔊 _Viernes_
-° ඬ⃟🔊 _Baneado_
-° ඬ⃟🔊 _Sexo_
-° ඬ⃟🔊 _Hola_
-° ඬ⃟🔊 _Un pato_
-° ඬ⃟🔊 _Nyanpasu_
-° ඬ⃟🔊 _Te amo_
-° ඬ⃟🔊 _Yamete_
-° ඬ⃟🔊 _Bañate_
-° ඬ⃟🔊 _Es puto_
-° ඬ⃟🔊 _La biblia_
-° ඬ⃟🔊 _Onichan_
-° ඬ⃟🔊 _Mierda de Bot_
-° ඬ⃟🔊 _Siuuu_
-° ඬ⃟🔊 _Rawr_
-° ඬ⃟🔊 _UwU_
-° ඬ⃟🔊 _:c_
-° ඬ⃟🔊 _a_
-
-*<◥ ツأدواتツ ◤>*
-
-° ඬ⃟🛠️ _${usedPrefix}afk *<reason>*_
-° ඬ⃟🛠️ _${usedPrefix}acortar *<link / url>*_
-° ඬ⃟🛠️ _${usedPrefix}calc *<operacion math>*_
-° ඬ⃟🛠️ _${usedPrefix}del *<Reply to Bot message>*_
-° ඬ⃟🛠️ _${usedPrefix}qrcode *<text>*_
-° ඬ⃟🛠️ _${usedPrefix}readmore *<text1| text2>*_
-° ඬ⃟🛠️ _${usedPrefix}spamwa *<numero|text|cantidad>*_
-° ඬ⃟🛠️ _${usedPrefix}styletext *<text>*_
-° ඬ⃟🛠️ _${usedPrefix}traducir *<text>*_
-
-*<◥ ツآر بي جي - الحدود - الاقتصادツ ◤/>*
-
-° ඬ⃟💵 _${usedPrefix}balance_
-° ඬ⃟💵 _${usedPrefix}claim_
-° ඬ⃟💵 _${usedPrefix}top_
-° ඬ⃟💵 _${usedPrefix}levelup_
-° ඬ⃟💵 _${usedPrefix}myns_
-° ඬ⃟💵 _${usedPrefix}perfil_
-° ඬ⃟💵 _${usedPrefix}work_
-° ඬ⃟💵 _${usedPrefix}minar_
-° ඬ⃟💵 _${usedPrefix}buy_
-° ඬ⃟💵 _${usedPrefix}buyall_
-° ඬ⃟💵 _${usedPrefix}transfer *<tipo> <cantidad> <@tag>*_
-° ඬ⃟💵 _${usedPrefix}verificar_
-° ඬ⃟💵 _${usedPrefix}unreg *<numero de serie>*_
-
-*<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊★彡ستيكرز彡★™/>*
-
-° ඬ⃟👽 _${usedPrefix}sticker *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}sticker *<link / url>*_
-° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}s *<link / url>*_
-° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
-° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
-° ඬ⃟👽 _${usedPrefix}attp *<text>*_
-° ඬ⃟👽 _${usedPrefix}ttp *<text>*_
-° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}slap *<@tag>_
-° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}dado_
-° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
-° ඬ⃟👽 _${usedPrefix}stickermarker *<EFFECTS> <responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}stickerfilter *<EFFECTS> <responder a imagen>*_
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 *<★彡المالك والمشرفون彡★™/>*
 
@@ -392,14 +338,17 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
+
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+╰══╡✯✯✯✯✯✯✯✯╞══╯
 `.trim()
 conn.sendHydrated(m.chat, str, wm, pp, 'https://instagram.com/dolipran_009/', 'Instagram', null, null, [
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
 ['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
 ], m,)
-await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
-type: 'audioMessage', 
-ptt: true})
+//await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
+//type: 'audioMessage', 
+//ptt: true})
 } catch (e) {
 conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] ★彡ان كانت القائمة تحتوي على خطأ ولم يكن من الممكن إرسالها ، والإبلاغ عنها إلى مالك الروبوت彡★™*', m)
 throw e
