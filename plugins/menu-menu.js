@@ -74,11 +74,8 @@ let str = `
 
 *<★彡معلومات عن البوت彡★™/>*
 
-° ඬ ⃟ 💟 _${usedPrefix}grupos_
 ° ඬ ⃟ 💟 _${usedPrefix}estado_
 ° ඬ ⃟ 💟 _${usedPrefix}infobot_
-° ඬ ⃟ 💟 _${usedPrefix}donar_
-° ඬ ⃟ 💟 _${usedPrefix}grouplist_
 ° ඬ ⃟ 💟 _${usedPrefix}owner_
 ° ඬ ⃟ 💟 _${usedPrefix}script_
 ° ඬ ⃟ 💟 _${usedPrefix}Bot_ (Text)
@@ -136,7 +133,7 @@ let str = `
 ° ඬ⃟🧧 _${usedPrefix}toptt *<responde a un video / audio>*_
 ° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un audio>*_
 ° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tts es *<text>*_
+° ඬ⃟🧧 _${usedPrefix}tts ar *<text>*_
 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
@@ -155,8 +152,10 @@ let str = `
 ° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
 ° ඬ⃟👽 _${usedPrefix}dado_
 ° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
-° ඬ⃟👽 _${usedPrefix}stickermarker *<EFFECTS> <responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}stickerfilter *<EFFECTS> <responder a imagen>*_
+° ඬ⃟👽 _${usedPrefix}stickermarker 
+                     *<EFFECTS> <responder a imagen>*_
+° ඬ⃟👽 _${usedPrefix}stickerfilter 
+                     *<EFFECTS> <responder a imagen>*_
 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
