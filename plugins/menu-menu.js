@@ -81,7 +81,7 @@ let str = `
 ° ඬ ⃟ 💟 _${usedPrefix}grouplist_
 ° ඬ ⃟ 💟 _${usedPrefix}owner_
 ° ඬ ⃟ 💟 _${usedPrefix}script_
-° ඬ ⃟ 💟 _Bot_ (Text)
+° ඬ ⃟ 💟 _${usedPrefix}Bot_ (Text)
 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
