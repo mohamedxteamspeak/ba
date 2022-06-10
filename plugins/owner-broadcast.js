@@ -4,7 +4,7 @@ let chatsall = Object.entries(conn.chats).filter(([_, chat]) => chat.isChats).ma
 let cc = text ? m : m.quoted ? await m.getQuotedObj() : false || m
 let teks = text ? text : cc.text
 for (let id of chatsall) { 
-conn.sendButton(id, `*╔══❰ ★彡إعلان彡★™ ❱══╗*\n*║*\n*╠❧* ${text}\n*║*\n*╚══════════════╝*`, '◥ ツهذا اتصال رسميツ ◤\n' + wm, fs.readFileSync('./src/avatar_contact.png'), [['🤖 𝙾𝚆𝙽𝙴𝚁 🤖', '.owner'],['💎 𝙳𝙾𝙽𝙰𝚁 💎', '.donasi']], false, { 
+conn.sendButton(id, `*╔══❰ ★彡إعلان彡★™ ❱══╗*\n*║*\n*╠❧* ${text}\n*║*\n*╚══════════════╝*`, '◥ ツهذا اتصال رسميツ ◤\n' + wm, fs.readFileSync('./src/avatar_contact.png'), [['🤖 𝙾𝚆𝙽𝙴𝚁 🤖', '.owner']], false, { 
 contextInfo: { externalAdReply: {
 title: 'إشُعٍارٍ رٍسميَ لُجٍميَعٍ الُدِرٍدِشُات',
 body: 'ʙʏ ᴛʜᴇ ᴇʟʜᴇʀᴅ ﹣ ʙᴏᴛ', 
