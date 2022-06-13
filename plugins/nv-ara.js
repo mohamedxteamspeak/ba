@@ -11,6 +11,7 @@ ptt: true
 }
 handler.customPrefix = /7as biya|Chno kathas man jihti|شنو كتحس من جهتي|شنو الاحساس ديالك|شكون أنا|شكون انا|madgi7 nki|Madgi7 nki|ماد كيح نكي/i
 handler.command = new RegExp
+
 handler.fail = null
 handler.exp = 100
 export default handler
