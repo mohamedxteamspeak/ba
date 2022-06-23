@@ -13,8 +13,8 @@ conn.sendHydrated(m.chat, `
 ⌚ *𝙳𝚄𝚁𝙰𝙲𝙸𝙾𝙽:* ${durationH}
 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${viewH}
 `.trim(), author, thumbnail, `${url}`, '𝚄𝚁𝙻', null, null, [
-['のصوتの', `${usedPrefix}yta ${url} yes`],
-['のفيديوの', `${usedPrefix}ytv ${url} yes`]
+['のصوتの', `${usedPrefix}yta ${url}`],
+['のفيديوの', `${usedPrefix}ytv ${url}`]
 ], m)
 }catch(e){
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] のخطأ ، يرجى المحاولة مرة أخرىの*')
